@@ -48,5 +48,6 @@ public class controlepump : MonoBehaviour
         {
             GetComponent<Animator>().SetBool("PULO",false);
         }
+        //Teste di rati
     }
 }
